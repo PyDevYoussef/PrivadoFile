@@ -38,4 +38,5 @@ pip install customtkinter
 ## 📄 License
 
 Governed by the terms of the GNU GPL v3.  
+Which mandates that all modifications remain open-source.  
 For more informations, review the [GNU GPL v3 terms](https://github.com/PyDevYoussef/PrivadoFile/blob/main/LICENSE).
