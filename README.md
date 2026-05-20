@@ -6,7 +6,7 @@
 [![Download Source Code](https://img.shields.io/badge/DOWNLOAD-SOURCE%20CODE-3c3c3c?logo=python&logoColor=3c3c3c)](https://github.com/TON_PSEUDO/TON_NOM_DE_REPO/archive/refs/heads/main.zip)
 
 
-# DestroFile
+# PrivadoFile
 
 A short description of what your software does.
 
