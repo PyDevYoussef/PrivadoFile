@@ -3,6 +3,7 @@
 PrivadoFile™ by Quantum Software™
 
 ### 🛠️ Tools
+- **Quantum Softwars™**
 - **CryptoFile™**
 - **DestroFile™**
 - **MetaFile™**
